@@ -1,5 +1,14 @@
 <h1 align="center">Hi , I'm Nioqui <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">Full Stack Developer</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql" />
+</p>
+
+## 📫 Contacto
+
+- Portfolio → LINK
+- Email → Nicolas.l-19@outlook.com
 <!--
 **Nioqui/Nioqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
