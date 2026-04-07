@@ -2,7 +2,7 @@
 <p align="center">Full Stack Developer</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,php,mysql" />
 </p>
 
 ## 📫 Contacto
