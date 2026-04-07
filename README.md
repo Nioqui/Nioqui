@@ -7,7 +7,7 @@
 
 ## 📫 Contacto
 
-- Portfolio → LINK
+- Portfolio → [LINK](https://nico-dev.netlify.app)
 - Email → Nicolas.l-19@outlook.com
 <!--
 **Nioqui/Nioqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
