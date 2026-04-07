@@ -2,8 +2,9 @@
 <p align="center">Full Stack Developer</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,mysql" />
 </p>
+
 
 ## 📫 Contacto
 
